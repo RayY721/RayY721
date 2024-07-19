@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Kunlei. If you find my name difficult to pronounce, you can also call me Ray. Still difficult? I will answer "Hey" as well. 😉
+
 <!--
 **RayY721/RayY721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
